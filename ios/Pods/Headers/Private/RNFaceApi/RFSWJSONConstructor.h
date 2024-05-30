@@ -1,0 +1,1 @@
+../../../../../node_modules/@regulaforensics/react-native-face-api/ios/RFSWJSONConstructor.h

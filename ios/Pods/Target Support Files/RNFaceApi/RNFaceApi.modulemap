@@ -1,0 +1,6 @@
+module RNFaceApi {
+  umbrella header "RNFaceApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
